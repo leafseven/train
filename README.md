@@ -1,2 +1,2 @@
-# train
-train branch
+# Welcome!
+Thanks for coming!
